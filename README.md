@@ -18,7 +18,7 @@ Stock price prediction is a crucial task for investors and traders to make infor
 To run the project locally, follow these steps:
 
 1. Clone this repository:
-       git clone https://github.com/Divya-Chhetri/stock-price-prediction.git
+       git clone https://github.com/Divya-Chhetri/Minor_Project_on_Stock_Prediction.git
 
 
 2. Install the required dependencies:
